@@ -1,0 +1,55 @@
+.imgset {
+  height: 5.5rem;
+  border-radius: 51%;
+  width: 6rem;
+}
+.badgearea {
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+}
+.rat {
+  width: 20%;
+  display: flex;
+  font-size: 10px;
+  justify-content: space-evenly;
+  color: white;
+  background: black;
+  border-radius: 50px;
+  height: 19px;
+  align-items: center;
+  letter-spacing: 1px;
+}
+.like {
+  width: 23px;
+  background: white;
+  display: flex;
+  justify-content: center;
+  height: 23px;
+  align-items: center;
+  border-radius: 50%;
+  cursor: pointer;
+  
+}
+
+.cBody {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+.cardset {
+  width: 12rem;
+  height: 12rem;
+  background-color: #c7d8ce;
+  margin-bottom: 3rem;
+}
+.card-text {
+  margin: 0;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+.cross{
+  cursor: pointer;
+    font-size: 10px;
+}
